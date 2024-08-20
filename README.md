@@ -1,2 +1,3 @@
 # Smart-bridge
-Here’s a 350-character version:  "Monitor flood situations to prevent disasters by automatically lifting the bridge when danger is detected. Enhance public safety through early warnings and real-time preventive measures, ensuring timely responses to environmental threats and minimizing risks associated with bridge failures during flood conditions."
+When danger is recognized, the bridge is immediately raised to avert disasters caused by flooding. By providing early warnings and taking proactive preventive action in real time, you may improve public safety by guaranteeing prompt reactions to environmental dangers and reducing the likelihood of bridge failures during flood conditions.
+
